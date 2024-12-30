@@ -27,10 +27,10 @@ Here are some examples of the best results obtained during the experiments:
 ![Length 24 Structure](Best_Runs/length_24_run_20241229_025200/best_results/best_training_ep83701_duplicate.png)
 
 ### Length: 60, Energy = -49 
-![Length 60 Structure](Best_Runs/length_60_run_20241229_041941/best_results/best_training_ep294230_duplicate.png")
+![Length 60 Structure](Best_Runs/length_60_run_20241229_041941/best_results/best_training_ep294230_duplicate.png)
 
 ### Length: 60, Energy = -49 (Alternative Structure)
-![Length 60 Structure](Best_Runs/length_60_run_20241229_041941/best_results/best_training_ep194494.png")
+![Length 60 Structure](Best_Runs/length_60_run_20241229_041941/best_results/best_training_ep194494.png)
 
 ---
 
